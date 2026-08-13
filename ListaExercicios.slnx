@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="AntecessorSucessor/AntecessorSucessor.csproj" />
+  <Project Path="AreaRetangulo/AreaRetangulo.csproj" />
   <Project Path="SomaDoisNumeros/SomaDoisNumeros.csproj" />
 </Solution>
