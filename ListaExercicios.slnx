@@ -2,6 +2,7 @@
   <Project Path="AntecessorSucessor/AntecessorSucessor.csproj" />
   <Project Path="AreaRetangulo/AreaRetangulo.csproj" />
   <Project Path="CalculadoraSimples/CalculadoraSimples.csproj" />
+  <Project Path="ContadorCaracteres/ContadorCaracteres.csproj" />
   <Project Path="ContagemCrescente/ContagemCrescente.csproj" />
   <Project Path="ContagemRegressiva/ContagemRegressiva.csproj" />
   <Project Path="ConversorMoedas/ConversorMoedas.csproj" />
