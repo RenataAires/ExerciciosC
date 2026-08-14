@@ -4,6 +4,7 @@
   <Project Path="CalculadoraSimples/CalculadoraSimples.csproj" />
   <Project Path="ContadorCaracteres/ContadorCaracteres.csproj" />
   <Project Path="ContagemCrescente/ContagemCrescente.csproj" />
+  <Project Path="ContagemPares/ContagemPares.csproj" />
   <Project Path="ContagemRegressiva/ContagemRegressiva.csproj" />
   <Project Path="ConversorMoedas/ConversorMoedas.csproj" />
   <Project Path="LoginSimples/LoginSimples.csproj" />
