@@ -6,6 +6,7 @@
   <Project Path="ContagemRegressiva/ContagemRegressiva.csproj" />
   <Project Path="ConversorMoedas/ConversorMoedas.csproj" />
   <Project Path="LoginSimples/LoginSimples.csproj" />
+  <Project Path="SomaAteZero/SomaAteZero.csproj" />
   <Project Path="SomaDoisNumeros/SomaDoisNumeros.csproj" />
   <Project Path="SomaNumerosPares/SomaNumerosPares.csproj" />
   <Project Path="Tabuada/Tabuada.csproj" />
