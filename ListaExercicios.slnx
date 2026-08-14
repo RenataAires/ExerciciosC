@@ -11,4 +11,5 @@
   <Project Path="SomaDoisNumeros/SomaDoisNumeros.csproj" />
   <Project Path="SomaNumerosPares/SomaNumerosPares.csproj" />
   <Project Path="Tabuada/Tabuada.csproj" />
+  <Project Path="VerificaSenha/VerificaSenha.csproj" />
 </Solution>
