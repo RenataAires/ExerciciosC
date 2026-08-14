@@ -10,6 +10,7 @@
   <Project Path="LoginSimples/LoginSimples.csproj" />
   <Project Path="MaiorElemento/MaiorElemento.csproj" />
   <Project Path="MediaNotas/MediaNotas.csproj" />
+  <Project Path="OrdemInversa/OrdemInversa.csproj" />
   <Project Path="SomaAteZero/SomaAteZero.csproj" />
   <Project Path="SomaDoisNumeros/SomaDoisNumeros.csproj" />
   <Project Path="SomaNumerosPares/SomaNumerosPares.csproj" />
