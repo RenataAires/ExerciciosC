@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="AntecessorSucessor/AntecessorSucessor.csproj" />
   <Project Path="AreaRetangulo/AreaRetangulo.csproj" />
+  <Project Path="CaixaEletronico/CaixaEletronico.csproj" />
   <Project Path="CalculadoraSimples/CalculadoraSimples.csproj" />
   <Project Path="ContadorCaracteres/ContadorCaracteres.csproj" />
   <Project Path="ContagemCrescente/ContagemCrescente.csproj" />
