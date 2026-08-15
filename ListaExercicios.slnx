@@ -7,6 +7,7 @@
   <Project Path="ContagemPares/ContagemPares.csproj" />
   <Project Path="ContagemRegressiva/ContagemRegressiva.csproj" />
   <Project Path="ConversorMoedas/ConversorMoedas.csproj" />
+  <Project Path="JogoSenha/JogoSenha.csproj" />
   <Project Path="LoginSimples/LoginSimples.csproj" />
   <Project Path="MaiorElemento/MaiorElemento.csproj" />
   <Project Path="MediaNotas/MediaNotas.csproj" />
